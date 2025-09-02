@@ -20,8 +20,8 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 **Libraries and Frameworks**
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
-<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">|<img title="Plotly" alt="Plotly" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/plotly/plotly.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|
 |--|--|--|--|--|
+<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">|<img title="Plotly" alt="Plotly" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/plotly/plotly.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|
 
 **Databases**
 
