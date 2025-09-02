@@ -11,12 +11,16 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="C" title="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
 |--|--|--|
 
 **Libraries and Frameworks**
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">
+**Libraries and Frameworks**
+
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
+<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">|<img title="Plotly" alt="Plotly" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/plotly/plotly.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|
 |--|--|--|--|--|
 
 **Databases**
@@ -42,8 +46,8 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 - Developed a CNN model with TensorFlow to classify facial expressions.  
 - Worked in a team as part of the **Digital Egypt Builders Initiative (DEBI)** training.  
 
-🔹 **OCR for Multi-Language Handwriting (Arabic/English)** *(In Progress)*  
-- Building a model inspired by **CNN + RNN + CTC Loss** architectures.  
+🔹 **OCR for English Handwriting ** *(In Progress)*  
+- Building a model inspired by **CNN + RNN** architectures.  
 - Targeting applications in **medical prescriptions recognition**.  
 
 ---
@@ -56,11 +60,7 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 
 ## 🤝 Let's Connect  
 
-<a href="https://www.linkedin.com/in/omar-albeltagy"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://github.com/OmarAlbeltagy"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"></a>  
+<a href="https://www.linkedin.com/in/omar-al-beltagy-0186282a5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://github.com/OmarAlbeltagy"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"></a>  
 
 ---
 
-### 🎉 Here is a random meme for you  
-(*PS: Refresh the page to see a new meme* 😄)  
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
