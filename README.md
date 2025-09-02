@@ -1,7 +1,12 @@
 <h1>Hi There, I'm Omar Ahmed Al-Beltagy <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-al-beltagy-0186282a5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+  <a href="https://www.kaggle.com/omaralbeltagy"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+</p>
+
 I'm a **Machine Learning & Computer Vision Student** passionate about building intelligent systems and deploying AI models to solve real-world problems.  
-Currently, I’m in my 3rd year at **Delta University for Science and Technology (Egypt)**, and I enjoy working on projects that combine **Deep Learning, Computer Vision, and Web Applications**.  
+Currently, I’m in my 4th year at **Delta University for Science and Technology (Egypt)**.  
 
 I'm open to collaborations on **AI, Machine Learning, and Computer Vision projects** 🚀.  
 
@@ -11,8 +16,8 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="C" title="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+
 
 **Libraries and Frameworks**
 
@@ -45,13 +50,10 @@ I'm open to collaborations on **AI, Machine Learning, and Computer Vision projec
 
 ## 📊 Some of my stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmarAlbeltagy&show_icons=true&theme=radical&include_all_commits=true">  
+<img src="https://github-readme-stats.vercel.app/api?username=OmarAhmBelt113&show_icons=true&theme=radical&include_all_commits=true">  
 
 ---
 
-## 🤝 Let's Connect  
+## 👀 Profile Views  
 
-<a href="https://www.linkedin.com/in/omar-al-beltagy-0186282a5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://github.com/OmarAlbeltagy"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40"></a>  
-
----
-
+<img src="https://komarev.com/ghpvc/?username=OmarAlbeltagy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
